@@ -9,8 +9,8 @@ automatically matching the language the customer writes in.
 
 </div>
 
-## Demo
-![Uploading WhatsApp Image 2026-10-08 at 10.00.24 PM.jpeg…]()
+## Demo <img width="1448" height="1086" alt="WhatsApp Image 2026-10-08 at 10 00 24 PM" src="https://github.com/user-attachments/assets/b5e9c446-0517-41f6-bb2e-09fc43b12996" />
+
 
 
 ---
