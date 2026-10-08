@@ -1,0 +1,18 @@
+{
+  "name": "wa-gateway",
+  "version": "1.0.0",
+  "description": "Baileys gateway: links a real WhatsApp number to the restaurant bot API",
+  "type": "commonjs",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js"
+  },
+  "dependencies": {
+    "@cacheable/memory": "^2.2.0",
+    "@cacheable/utils": "^2.5.0",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "pino": "^9.4.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
